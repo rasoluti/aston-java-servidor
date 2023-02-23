@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://containers-us-west-48.railway.app:6433/railway
+  sql:
+    init:
+      mode: always
